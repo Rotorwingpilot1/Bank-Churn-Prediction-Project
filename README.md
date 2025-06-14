@@ -1,4 +1,4 @@
-# BankChurnProject
+# Bank Churn Prediction Project
 Repository for AI/ML Certificate Bank Churn Project
 
 Project Information:
